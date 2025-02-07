@@ -43,15 +43,7 @@ Html, CSS, Javascript
 | :-------- | :------- | :------------------------- |
 | `api_key` | `string` | **Required**. Your API key |
 
-#### Get recipe by Country
 
-```http
-  GET https://www.themealdb.com/api/json/v1/1/filter.php?a=Indian
-```
-
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch |
 
 
 
