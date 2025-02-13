@@ -28,7 +28,7 @@ Clone the project
 
 ## Tech Stack
 
-Html, CSS, Javascript
+Html, CSS, Javascript.
 
 
 ## API Reference
