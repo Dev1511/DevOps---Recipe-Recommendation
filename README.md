@@ -1,5 +1,5 @@
 
-# Recipe-Recommendation.🥗🥗
+# Recipe-Recommendation🥗🥗
 
 The Recipe-Recommendation project is a web application that allows users to search for recipes based on ingredients and countries. It provides users with details of recipes, including videos, instructions, and the list of ingredients used. This README will guide you through the setup, features, and usage of the project.
 
